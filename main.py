@@ -197,7 +197,7 @@ class DecisionTree:
         recurse(self.root)
 
 if __name__ == "__main__":
-    file_path = "primary_data.csv"
+    file_path = "secondary_data.csv"
     data = pd.read_csv(file_path, sep=";")
     data = data.drop(columns=["family", "name"], errors="ignore")
     for col in data.columns:
