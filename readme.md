@@ -1,4 +1,4 @@
-# MAchine Learning Project
+# Machine Learning Project
 
 This repository contains the code and report for the "Tree Predictors for Mushroom Classification" project. The project implements a decision tree classifier from scratch to determine whether mushrooms are poisonous or edible based on their features.
 
